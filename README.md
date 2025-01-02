@@ -1,2 +1,2 @@
 # mtabs
-git clone https://github.com/salbiyahnet/mtabs/blob/main/genieacs.zip
+git clone https://github.com/salbiyahnet/mtabs/genieacs.zip
